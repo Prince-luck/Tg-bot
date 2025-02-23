@@ -8,11 +8,11 @@ global.timeZone = 'Africa/Lagos'; // Your Time Zone
 global.ownerId = [5918917675]; // Replace With Your Owner ID(For Bot Owner), You Can Add More than 1
 global.footer = '*Powered by ǝunʇɹoɟ*';
 global.ytdlWeb = 'https://ytdl.giftedtech.web.id';
-global.giftedApi = 'https://apis.davidcyriltech.my.id'; // Gifted Api
+global.giftedApi = 'https://apis.davidcyriltech.my.id/api'; // Gifted Api
 global.giftedKey = ''; // Gifted Api Key
-global.maherApi = 'https://api.nexoracle.com'; // NexOracle Api
+global.maherApi = 'https://apis.davidcyriltech.my.id/api'; // NexOracle Api
 global.maherKey = ''; // NexOracle Api Key
-global.lyffeApi = 'https://levanter.onrender.com'; // Lyffe Api
+global.lyffeApi = 'https://apis.davidcyriltech.my.id/api'; // Lyffe Api
 
 global.giftechMess = {
     internalerr: 'Internal Server Error!',
